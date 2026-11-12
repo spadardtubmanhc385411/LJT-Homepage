@@ -93,10 +93,17 @@ exclude:
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml
   - files
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
+  - images/500x300.png
+  - images/bio-photo.jpg
+  - images/bio-photo-2.jpg
+  - images/editing-talk.png
+  - images/profile.png
+  - images/wiki
   - LICENSE
   - local
   - log
